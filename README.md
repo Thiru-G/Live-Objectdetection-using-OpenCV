@@ -7,7 +7,7 @@
 python <filename.py> --prototxt <filename of .prototxt.txt> --model <filename of .caffemodel>
 ```
 
-**For this project **  open command window and use the following code:
+**For this project**  open command window and use the following code:
 
 ```
 python live_obj_detect.py --prototxt MNSdeploy.prototxt --model MNSdeploy.caffemodel
