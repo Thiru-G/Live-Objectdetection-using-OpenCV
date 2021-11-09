@@ -12,5 +12,3 @@ python <filename.py> --prototxt <filename of .prototxt.txt> --model <filename of
 ```
 python live_obj_detect.py --prototxt MNSdeploy.prototxt --model MNSdeploy.caffemodel
 ```
-
-**Inspiration Credits** - https://github.com/Surya-Murali/Real-Time-Object-Detection-With-OpenCV
